@@ -10,70 +10,105 @@
    height="100mm"
    viewBox="0 0 100 100">
   <!-- Your beautiful SVG code will go here -->
-  <rect x="0" y="0" width="100" height="100" stroke="red" stroke-width="0.5" fill="#F1EEF7"/>
+  <rect x="0" y="0" width="100" height="100" stroke="red" stroke-width="0.5" fill="#AEC3B0"/>
 
-  <rect x="10" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="5.5350" height="5.5350" stroke="green" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="3.6900" height="3.6900" stroke="red" stroke-width="0.1" fill="none"/>
-  <rect x="10" y="10" width="2.7680" height="2.7680" stroke="blue" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="12" width="14" height="14" stroke="red" stroke-width="0.3" fill="none"/>
+  <rect x="10" y="12" width="12" height="12" stroke="blue" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="12" width="10" height="10" stroke="red" stroke-width="0.3" fill="none"/>
+  <rect x="10" y="12" width="8" height="8" stroke="green" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="12" width="6" height="6" stroke="blue" stroke-width="0.1" fill="none"/>
+  <rect x="10" y="12" width="4" height="4" stroke="red" stroke-width="0.3" fill="none"/>
+  <rect x="10" y="12" width="2" height="2" stroke="blue" stroke-width="0.1" fill="none"/>
 
-  <rect x="30" y="10" width="14.761" height="14.761" stroke="red" stroke-width="0.1" fill="none"/>
-  <text x="44" y="9" style="font-size:1pt;">初 42</text>
-  <rect x="30" y="10" width="7.3805" height="7.3805" stroke="red" stroke-width="0.1" fill="none"/>
-  <text x="37" y="9" style="font-size:1pt;">二 21</text>
-  <rect x="30" y="10" width="3.6900" height="3.6900" stroke="red" stroke-width="0.1" fill="none"/>
-  <text x="30" y="9" style="font-size:1pt;">五 10.5</text>
+  <rect x="30" y="12" width="14" height="14" stroke="red" stroke-width="0.4" fill="none"/>
+  <text x="10" y="8"  style="font-size:2pt;" >這是一號</text>
+  <rect x="30" y="12" width="7" height="7" stroke="green" stroke-width="0.2" fill="none"/>
+  <text x="30" y="8"  style="font-size:2pt;">這是二號</text>
+  <rect x="30" y="12" width="4" height="4" stroke="gray" stroke-width="0.1" fill="none"/>
+  <text x="50" y="8"  style="font-size:2pt;">這是三號</text>
 
-  <rect x="50" y="10" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="59" y="9" style="font-size:1pt;">一 27.5</text>
-  <rect x="50" y="10" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50" y="9" style="font-size:1pt;">四 13.75</text>
+  <rect x="50" y="12" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="56" y="10" style="font-size:1pt;">一 27.5</text>
+  <rect x="50" y="12" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="50" y="10" style="font-size:1pt;">四 13.75</text>
 
-  <rect x="70" y="10" width="5.5350" height="5.5350" stroke="green" stroke-width="0.1" fill="none"/>
-  <text x="75" y="9" style="font-size:1pt;">三 15.75</text>
-  <rect x="70" y="10" width="2.7680" height="2.7680" stroke="green" stroke-width="0.1" fill="none"/>
-  <text x="70" y="9" style="font-size:1pt;">六 7.875</text>
+  <rect x="70" y="12" width="5.5350" height="5.5350" stroke="green" stroke-width="0.1" fill="none"/>
+  <text x="75" y="10" style="font-size:1pt;">三 15.75</text>
+  <rect x="70" y="12" width="2.7680" height="2.7680" stroke="green" stroke-width="0.1" fill="none"/>
+  <text x="70" y="10" style="font-size:1pt;">六 7.875</text>
 
   <!-- Your beautiful SVG code will end here -->
 
-  <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
-  <rect x="50" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="58.733" style="font-size:3pt;">遂</text>
-  <rect x="50" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="50.4" y="63.566" style="font-size:3pt;">良</text>
+  <rect x="10" y="50" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="10.5" y="54.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  顯</text>
+  <rect x="10" y="56" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="10.5" y="60.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  卡</text>
+  <rect x="10" y="62" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="10.5" y="66.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  買</text>
+  <rect x="10" y="68" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="10.5" y="72.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  不</text>
+  <rect x="10" y="74" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="10.5" y="78.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  起</text>
+
+  <rect x="16" y="50" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="16.5" y="54.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  黃</text>
+  <rect x="16" y="56" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="16.5" y="60.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  仁</text>
+  <rect x="16" y="62" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="16.5" y="66.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  勳</text>
+  <rect x="16" y="68" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="16.5" y="72.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  降</text>
+  <rect x="16" y="74" width="6" height="6" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="16.5" y="78.5" style="font-size:4pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  價</text>
+
+  <rect x="22" y="50" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="22.5" y="62" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  廣</text>
+  <rect x="37" y="50" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="37.5" y="62" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  大</text>
+  <rect x="52" y="50" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="52.5" y="62" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  玩</text>
+  <rect x="67" y="50" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="67.5" y="62" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  家</text>
+
+  <rect x="22" y="65" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="22.5" y="77" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  聯</text>
+  <rect x="37" y="65" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="37.5" y="77" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  屬</text>
+  <rect x="52" y="65" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="52.5" y="77" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  請</text>
+  <rect x="67" y="65" width="15" height="15" stroke="#34A041" stroke-width="0.2" fill="#123D15"/>
+  <text x="67.5" y="77" style="font-size:11pt; font-family: DFKai-sb;" stroke-width="0.1" stroke="#C7D8C9" fill="#C7D8C9">
+  願</text>
 
 
-  <rect x="54.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="53.9" style="font-size:3pt;;" fill="blue">資</text>
-  <rect x="54.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="58.733" style="font-size:3pt;" fill="blue">工</text>
-  <rect x="54.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="55.233" y="63.566" style="font-size:3pt;" fill="blue">所</text>
-
-
-  <rect x="59.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="53.9" style="font-size:3pt;">北</text>
-  <rect x="59.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="58.733" style="font-size:3pt;">科</text>
-  <rect x="59.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
-  <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
 
 
 
 
-  <text x="30" y="30" style="font-size:2.5pt;">初號 42pt</text>
-  <text x="30" y="35" style="font-size:2.5pt;">二號 21pt</text>
-  <text x="30" y="40" style="font-size:2.5pt;">五號 10.5pt</text>
 
-  <text x="50" y="30" style="font-size:2.5pt;">一號 27.5pt</text>
-  <text x="50" y="35" style="font-size:2.5pt;">四號 13.75pt</text>
 
-  <text x="70" y="30" style="font-size:2.5pt;">三號 15.75pt</text>
-  <text x="70" y="35" style="font-size:2.5pt;">六號 7.875pt</text>
+
+  <text x="30" y="30" style="font-size:2.5pt; font-family: DFKai-sb;">初號 42pt</text>
+  <text x="50" y="30" style="font-size:2.5pt; font-family: DFKai-sb;">一號 27.5pt</text>
+  <text x="70" y="30" style="font-size:2.5pt; font-family: DFKai-sb;">三號 15.75pt</text>
+
 
 </svg>
 
